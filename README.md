@@ -14,21 +14,22 @@ I'm drawn to research that combines rigorous empirical analysis with tangible po
 ## 🚀 Recent Projects
 
 - **Aravalli Range Protection Analysis:** Using Python and geospatial data to analyze the area protected under the Supreme Court's ruling on India's oldest mountain range
-- **Interactive Web App:** Developing a data-driven application (more details coming soon!)
+- **Interactive Web App:** Developing a data-driven application 
 - **Personal Link-in-Bio:** Building a custom portfolio landing page
 
 ## 💼 Work that I do:
 
 ### Featured Projects
+- [**Travel Journal Web App**](https://gondan-diaries.onrender.com/)
+- [**Data Visualization & Interactive Dashboards**](https://rushikeshay.github.io/protests/index.html)
 - [**Environmental Economics & Program Evaluation**](https://rushikeshay.github.io/Kenya_paper.pdf) 
 - [**Policy Design & Analysis**](https://rushikeshay.github.io/Agri_credit.pdf)
-- [**Data Visualization & Interactive Dashboards**](https://rushikeshay.github.io/protests/index.html)
 - [**Geospatial Analysis & Predictive Modeling**](https://rushikeshay.github.io/Aravalli-Article/)
 
 *Click on any project category to explore my work*
 
 ---
 
-📬 **Open to:** Data Analyst opportunities in energy economics, development economics, policy evaluation, and the tech/AI space
+📬 **Open to:** Analyst opportunities in economic consulting, development economics, policy evaluation, and the tech/AI space
 
 📫 **Reach me:** [Email](jadhav@uchicago.edu) | [LinkedIn](https://www.linkedin.com/in/rushikesh-jadhav-mpp/)
