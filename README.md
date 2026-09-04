@@ -1,11 +1,11 @@
 # Rushikesh Jadhav
 `UChicago/MPP/Data Analytics/Economics & Policy`
 
-## 🎓 Currently: Data Analyst Intern at Cook County Assessor's Office
+## 🎓 Currently: Applied Data Fellow with the Cook County's Bureau of Economic Development 
 
 **Master of Public Policy @UChicago** with Specialization in Data Analytics • Pearson Fellow
 
-**Recent Work:** DIME World Bank Group; CCAO Chicago; UNDP Data, AI, and Innovation Intern; Busara Center for Behavioral Economics Intern; Research Assistant (UChicago)
+**Recent Work:** DIME World Bank Group; Cook County Assessor's Office Chicago; UNDP Data, AI, and Innovation Intern; Busara Center for Behavioral Economics Intern; Research Assistant (UChicago)
 
 My journey in applied economics and policy analysis started at St. Olaf College and deepened during my time analyzing Medicare data at Acumen LLC, where I uncovered $500M in cost savings for CMS. At the Harris School, I focus on the intersection of quantitative methods and real-world policy problems—from energy economics to democratic institutions to financial inclusion.
 
